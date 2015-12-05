@@ -1,0 +1,28 @@
+name: HunterNoack
+favicon: null
+layout_spectrum: 0.3242698030080646
+typography_spectrum: 0.5229460464324802
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6626633142586797
+  lightness: 0.908076407853514
+  saturation: 0.2710543782450259
+  rhythmicContrast: 0.0012830998748540878
+purpose: []
